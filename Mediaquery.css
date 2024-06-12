@@ -453,7 +453,7 @@
   /* --------------Home page--------*/
   .pagebtn {
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
@@ -896,13 +896,7 @@
   #navbar-container {
     height: 60vh;
   }
-  .menuicon {
-    position: absolute;
-    top: 5%;
-    left: 90%;
-    transform: translate(-50%, -50%);
-    align-self: flex-end;
-  }
+
   .navbar {
     width: 100%;
     display: block;
@@ -914,7 +908,7 @@
   }
   .menu-icon {
     position: absolute;
-    top: 5%;
+    top: 7%;
     left: 80%;
     transform: translate(-50%, -50%);
     align-self: flex-end;
@@ -923,7 +917,7 @@
 
   .logo {
     position: absolute;
-    width: 100px;
+    width: 200px;
     font-family: crossorigin;
     text-decoration: none;
     list-style: none;
@@ -977,7 +971,7 @@
   }
   .pagebtn {
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
